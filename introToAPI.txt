@@ -1,0 +1,10 @@
+so you know some js
+
+ideally now you get in some practice with basic js
+
+however i understand that its boring af to build something that only really ouputs into the terminal
+    console.log is boring
+
+lets get you started on api so you can start to really apply those js skills into mc
+    to start off with
+        console.log() -> world.sendMessage()
