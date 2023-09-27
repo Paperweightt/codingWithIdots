@@ -2,9 +2,10 @@ so you know some js
 
 ideally now you get in some practice with basic js
 
-however i understand that its boring af to build something that only really ouputs into the terminal
+however its boring af to build something that ouputs into the terminal so either learn web dev or console.log
     console.log is boring
+    web dev?!?!?!?
 
-lets get you started on api so you can start to really apply those js skills into mc
+lets get you started on api so you can start to apply js skills into mc
     to start off with
         console.log() -> world.sendMessage()
